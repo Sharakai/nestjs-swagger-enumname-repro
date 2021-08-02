@@ -1,0 +1,1 @@
+Reproduction of the @nestjs/swagger enumName schema issue
